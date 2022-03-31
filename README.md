@@ -1,2 +1,2 @@
 # hello-world
-I'm new here 
+So this is what github is. im literally a hacker
